@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="DPL"/>
+	<feature automatic="selected" name="Base"/>
+	<feature automatic="selected" name="Forma"/>
+	<feature manual="selected" name="Linha"/>
+	<feature manual="selected" name="Retangulo"/>
+	<feature manual="selected" name="Limpar"/>
+</configuration>
